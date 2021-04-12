@@ -13,11 +13,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Features
 User Login: Users will be able to create and authenticate an account and login to create/save/view their lists and notes
 
+Create projects: Can have multiple collections saved under user account
+
 Randomizer: User can generate one or more of the following fields: number, color(hex code), word, phrase, instruction (“verb the noun”syntax)
 
 Save, Delete: Once generated, each item can be added to a list and saved under the user’s account or deleted from list
 
 Notes: Can add spaces for additional notes about project, instructions to self, or use a few included prompt templates
+
+*possibly add an interval timer ala pomodoro?
 
 ### Technologies
 Javascript
@@ -30,4 +34,4 @@ MySQL
 ### What I'll Have to Learn
 using data from API, create login with JS
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/jzP6nusS/liftoff-project

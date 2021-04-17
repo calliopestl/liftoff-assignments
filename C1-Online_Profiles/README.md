@@ -1,3 +1,5 @@
+
+
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
@@ -13,6 +15,4 @@ https://github.com/calliopestl
 https://www.linkedin.com/in/halleymoore
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+[Halley Moore Tech Resume.pdf](https://github.com/calliopestl/liftoff-assignments/files/6330222/Halley.Moore.Tech.Resume.pdf)

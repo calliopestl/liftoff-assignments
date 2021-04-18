@@ -13,7 +13,7 @@ For this assignment, you'll create some initial plans for your project.
   <li><a href="/P3-Project_Planning/register.jpg">Register</a></li>
   <li><a href="/P3-Project_Planning/createproject.jpg">Create Project</a></li>
   <li><a href="/P3-Project_Planning/allprojects.jpg">View All Projects</a></li>
-  <li><a href="/P3-Project_Planning/indvprojects.jpg">Individual Project</a></li>
+  <li><a href="/P3-Project_Planning/indvproject.jpg">Individual Project</a></li>
 </ul>
 
 

@@ -9,11 +9,11 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-  ![landing](https://user-images.githubusercontent.com/73859530/115159037-c94f9680-a056-11eb-9776-f05943e11783.jpg)
-  ![register](https://user-images.githubusercontent.com/73859530/115159038-c9e82d00-a056-11eb-9767-2c8b46c5b031.jpg)
-  ![createproject](https://user-images.githubusercontent.com/73859530/115159035-c8b70000-a056-11eb-8416-3e7242991e85.jpg)
-  ![allprojects](https://user-images.githubusercontent.com/73859530/115159033-c81e6980-a056-11eb-9844-be176f74f79b.jpg)
-  ![indvproject](https://user-images.githubusercontent.com/73859530/115159036-c94f9680-a056-11eb-8aed-3acc9b0807e8.jpg)
+  <li>![landing](https://user-images.githubusercontent.com/73859530/115159037-c94f9680-a056-11eb-9776-f05943e11783.jpg)</li>
+  <li>![register](https://user-images.githubusercontent.com/73859530/115159038-c9e82d00-a056-11eb-9767-2c8b46c5b031.jpg)</li>
+  <li>![createproject](https://user-images.githubusercontent.com/73859530/115159035-c8b70000-a056-11eb-8416-3e7242991e85.jpg)</li>
+  <li>![allprojects](https://user-images.githubusercontent.com/73859530/115159033-c81e6980-a056-11eb-9844-be176f74f79b.jpg)</li>
+  <li>![indvproject](https://user-images.githubusercontent.com/73859530/115159036-c94f9680-a056-11eb-8aed-3acc9b0807e8.jpg)</li>
 </ul>
 
 

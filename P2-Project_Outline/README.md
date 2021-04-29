@@ -34,7 +34,7 @@ APIs
 HTML
 CSS
 Node.js
-MySQL
+MongoDB
 ### What I'll Have to Learn
 using data from API, create login with JS
 ### Project Tracker
